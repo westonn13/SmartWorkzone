@@ -7,6 +7,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UIElements;
 
+//this is my test
 public class TestScriptNathan : MonoBehaviour
 {
     public float updateFrequency = 5.0f;
